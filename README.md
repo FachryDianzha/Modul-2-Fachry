@@ -5,4 +5,4 @@ Cara saya melakukanya, dengan menginstal ekstensi di Visual Code yang bernama "I
 Setelah itu Klik kanan pada gambar yang ingin diubah. Lalu Klik "Encode :to base64".
 Nanti akan muncul tulisan bahwa encode base64 sudah tersalin.
 Menurut saya dengan cara ini bisa meringankan gambar dengan mengubahnya menjadi encode base64.
-Sekian penjelasan cara dan solusi dari saya, Terima Kasih.
+Sekian penjelasan solusi dari saya, Terima Kasih.
